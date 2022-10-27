@@ -1,0 +1,11 @@
+Nome; cargo; id_func; n_trabalha_com; tempo_sem_trabalhar
+Joao da Silva; motorista; func_id_1; func_id_2; 2;
+func2; ajudante; func_id_2; func_id_4; 0;
+func3; ajudante; func_id_3; func_id_8; 1;
+func4; motorista; func_id_4; func_id_9; 0;
+func5; ajudante; func_id_5; func_id_4; 1;
+func6; ajudante; func_id_6; ; 1;
+func7; motorista; func_id_7; ; 0;
+func8; motorista; func_id_8; ; 1;
+func9; ajudante; func_id_9; ; 0;
+func10; motorista; func_id_10; ; 1;

@@ -1,0 +1,22 @@
+Needed information:
+* date
+* list of scheduled elements
+* path
+* truck
+* delivery
+
+List
+Rules to schedule elements
+Rule mandatory level
+Rule related to worker that did not work
+
+
+Template to a message with fields that need to be replaced
+
+A driver and an assistant are scheduled to a delivery
+
+Driver and assistant have degree of affinity 
+
+There are two shifts: day and night
+
+A set of deliveries are allocated in a shift
